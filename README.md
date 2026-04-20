@@ -10,5 +10,8 @@ To provide neutral gameplay notes, beginner-friendly explanations, and structure
 - docs/content-guidelines.md
 - PROJECT_SPEC.md
 
+## Articles
+Links to all documentation articles will be listed here as they are generated.
+
 ## Notes
 This project is informational only and does not include promotional or commercial content.

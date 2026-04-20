@@ -21,6 +21,10 @@ Content must be:
 - Informational
 - Non-promotional
 
+## Article Generation Rules
+- Each article must have a sequential number (e.g., 001, 002, 003...)
+- Every generated article must be added to README.md with a link
+
 ## Mandatory Checklist
 - No money-related language
 - No promotional intent
