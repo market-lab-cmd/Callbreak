@@ -10,7 +10,7 @@ Decision making in Callbreak is not about finding the perfect play every time. I
 
 ## 🖼️ Callbreak Decision Making Overview
 
-![Person standing at a decision board with multiple branching paths showing different outcomes, thoughtful expression, calm indoor study environment, notebook and diagram on desk, soft natural lighting, no gambling elements, educational illustration, 1200x675](../assets/images/decision-making.png)
+![Callbreak decision making process - player thinking through each trick with decision framework, evaluating trade-offs, logical card play analysis, avoiding decision errors, systematic thought process, educational game strategy guide, 1200x675](../assets/images/decision-making.jpg)
 
 ---
 

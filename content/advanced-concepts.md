@@ -12,7 +12,7 @@ By the end of this guide, you will have a working understanding of information m
 
 ## 🖼️ Callbreak Advanced Concepts Overview
 
-![Advanced callbreak player reviewing complex hand scenarios on a strategy board with multiple branching decision trees, concentrated and analytical expression, well-organized desk with notes and diagrams, no gambling elements, educational illustration, 1200x675](../assets/images/advanced-concepts.png)
+![Advanced Callbreak strategy concepts - experienced player analyzing complex hand scenarios with decision trees, information asymmetry, GTO strategy notes, block play diagrams, strategic thinking at study desk, educational card game guide illustration, 1200x675](../assets/images/advanced-concepts.jpg)
 
 ---
 

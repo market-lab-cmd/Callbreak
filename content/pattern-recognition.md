@@ -10,7 +10,7 @@ Pattern recognition does not guarantee accuracy, but it shifts your decisions fr
 
 ## 🖼️ Callbreak Pattern Recognition Overview
 
-![Person analyzing multiple cards spread on a desk, connecting patterns mentally, thoughtful and focused expression, notebook with diagrams, calm study environment, no gambling elements, educational illustration, 1200x675](../assets/images/pattern-recognition.png)
+![Callbreak pattern recognition skills - player identifying repeating behaviors and card patterns, predicting opponent moves, behavioral tendency analysis, trick-taking patterns, strategic observation techniques, educational card game guide, 1200x675](../assets/images/pattern-recognition.jpg)
 
 ---
 

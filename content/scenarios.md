@@ -10,7 +10,7 @@ Understanding these scenarios helps you react quickly and correctly when they ar
 
 ## 🖼️ Callbreak Scenarios Overview
 
-![Four players at a callbreak table in various moments of decision, one pointing at cards, another thinking carefully, teammates conferring, calm focused atmosphere, no gambling elements, educational illustration, 1200x675](../assets/images/scenarios.png)
+![Callbreak game scenarios and real situations - four players at card table handling common game scenarios, early round strategy, late round tactics, trick winning decisions, practical gameplay examples, educational card game guide illustration, 1200x675](../assets/images/scenarios.jpg)
 
 ---
 
