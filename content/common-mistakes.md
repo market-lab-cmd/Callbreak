@@ -10,7 +10,7 @@ This guide covers the most common mistakes in Callbreak — from calling errors 
 
 ## 🖼️ Callbreak Common Mistakes Overview
 
-![Person reviewing their past game notes with a teammate, pointing at mistakes on a notepad, calm indoor setting, thoughtful discussion, soft lighting, no gambling elements, educational illustration, 1200x675](callbreak-common-mistakes.png)
+![Person reviewing their past game notes with a teammate, pointing at mistakes on a notepad, calm indoor setting, thoughtful discussion, soft lighting, no gambling elements, educational illustration, 1200x675](../assets/images/common-mistakes.png)
 
 ---
 

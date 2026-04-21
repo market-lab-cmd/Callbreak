@@ -10,7 +10,7 @@ Understanding Callbreak fundamentals gives you the foundation to play strategica
 
 ## 🖼️ Callbreak Fundamentals Overview
 
-![Two teams of two players each sitting across from one another at a calm table, examining their cards thoughtfully, soft natural lighting, clean modern style, no gambling elements, no large text, educational illustration, 1200x675](callbreak-fundamentals.png)
+![Two teams of two players each sitting across from one another at a calm table, examining their cards thoughtfully, soft natural lighting, clean modern style, no gambling elements, no large text, educational illustration, 1200x675](../assets/images/fundamentals.png)
 
 ---
 

@@ -10,7 +10,7 @@ Risk balance is the skill of evaluating potential gains against potential losses
 
 ## 🖼️ Callbreak Risk Balance Overview
 
-![Person carefully balancing weighing scales with cards on each side, thoughtful expression, calm study environment, notebook with risk analysis diagrams, soft natural lighting, no gambling elements, educational illustration, 1200x675](callbreak-risk-balance.png)
+![Person carefully balancing weighing scales with cards on each side, thoughtful expression, calm study environment, notebook with risk analysis diagrams, soft natural lighting, no gambling elements, educational illustration, 1200x675](../assets/images/risk-balance.png)
 
 ---
 

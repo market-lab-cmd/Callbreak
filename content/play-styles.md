@@ -10,7 +10,7 @@ This guide covers the main play styles in Callbreak, how to identify them, how t
 
 ## 🖼️ Callbreak Play Styles Overview
 
-![Four different player personas shown at a strategy discussion table, each with distinct expressions and body language representing different play styles, calm collaborative atmosphere, no gambling elements, educational illustration, 1200x675](callbreak-play-styles.png)
+![Four different player personas shown at a strategy discussion table, each with distinct expressions and body language representing different play styles, calm collaborative atmosphere, no gambling elements, educational illustration, 1200x675](../assets/images/play-styles.png)
 
 ---
 

@@ -10,7 +10,7 @@ This guide covers how to develop and apply game awareness at the Callbreak table
 
 ## 🖼️ Callbreak Game Awareness Overview
 
-![Group of four players seated around a table, focused and observant, one player carefully watching an opponent's card play, calm and thoughtful atmosphere, no gambling elements, educational illustration, 1200x675](callbreak-game-awareness.png)
+![Group of four players seated around a table, focused and observant, one player carefully watching an opponent's card play, calm and thoughtful atmosphere, no gambling elements, educational illustration, 1200x675](../assets/images/game-awareness.png)
 
 ---
 

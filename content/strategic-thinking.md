@@ -10,7 +10,7 @@ This guide covers how to develop strategic thinking in Callbreak, from round-lev
 
 ## 🖼️ Callbreak Strategic Thinking Overview
 
-![Person at a planning desk with multiple rounds of callbreak notes spread out, drawing strategic diagrams and flowcharts, focused and analytical expression, calm study environment, no gambling elements, educational illustration, 1200x675](callbreak-strategic-thinking.png)
+![Person at a planning desk with multiple rounds of callbreak notes spread out, drawing strategic diagrams and flowcharts, focused and analytical expression, calm study environment, no gambling elements, educational illustration, 1200x675](../assets/images/strategic-thinking.png)
 
 ---
 
