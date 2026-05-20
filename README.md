@@ -23,4 +23,4 @@ Start with Fundamentals if you are new to Callbreak. Then progress through the g
 
 ## External Reference
 
-For additional gameplay notes and strategies, visit the [India Skill Gaming Hub](https://market-lab-cmd.github.io/india-skill-gaming-hub/).
+For additional gameplay notes and strategies, visit the [India Skill Gaming Hub](../india-skill-gaming-hub/).

@@ -296,4 +296,4 @@ callbreak opponent analysis
 
 ## External Reference
 
-For a broader reference, see [related gameplay notes](https://market-lab-cmd.github.io/india-skill-gaming-hub/)
+For a broader reference, see [related gameplay notes](../../india-skill-gaming-hub/)

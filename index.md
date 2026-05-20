@@ -189,4 +189,4 @@ callbreak skill improvement
 
 ## Related Pages
 
-This guide is part of a broader collection of educational card game content. For related gameplay notes and strategies, see [related skill gaming hub](https://market-lab-cmd.github.io/india-skill-gaming-hub/).
+This guide is part of a broader collection of educational card game content. For related gameplay notes and strategies, see [related skill gaming hub](../india-skill-gaming-hub/).
